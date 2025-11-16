@@ -1,38 +1,73 @@
-<h1 align="center">Hi, I'm Yunus Emre Özçelik 👋</h1>
-
+<!-- Animated Header -->
 <p align="center">
-  AI Engineering Student • AI Developer • NLP & LLM Enthusiast  
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00C4FF&width=700&lines=Hi+there+👋;+I'm+Yunus+Emre+Özçelik!;AI+Engineer+%7C+LLM+%7C+RAG+%7C+NLP+Developer;Welcome+to+my+GitHub+Profile!">
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-I am a third-year **Artificial Intelligence Engineering** student with a strong passion for  
-AI systems, machine learning, LLM-based applications, and intelligent software solutions.  
-I love transforming theoretical knowledge into practical, innovative projects.
+## 🧠 About Me
 
-- 🔬 Focus areas: **LLM, NLP, RAG, AI Assistants, STT/TTS, Machine Learning**
-- 🎯 Goal: Build impactful AI solutions and contribute to next-generation intelligent systems
-- 🌱 Currently improving: **Vector DBs, Deep Learning, AI Agents, Java & Python**
+🎓 AI Engineering student passionate about:  
+- Large Language Models (LLMs)  
+- RAG Systems & Vector Databases  
+- NLP / Speech Processing  
+- Intelligent software development  
+- High-impact AI solutions  
 
-
-## 🛠 Technical Skills
-**Programming:** Java, Python, C, Kotlin  
-**AI/ML:** NLP, LLMs, Machine Learning, Deep Learning  
-**Web:** HTML, CSS, JavaScript (basic)  
-**Tools:** Vector DBs, RAG, Azure Speech Services, OpenAI APIs, ElevenLabs, Java Swing  
-**Other:** Algorithms, Data Structures, OOP
-
-
-## 🌍 Languages
-- **English:** B1  
-- **Spanish:** A1  
+🚀 I love transforming theory into real-world AI products and constantly exploring new technologies.
 
 ---
 
-## 📞 Contact
-📧 **Email:** yunusemreze8@gmail.com  
-🔗 **LinkedIn:** www.linkedin.com/in/yunus-emre-ozcelik81  
-🐙 **GitHub:** github.com/yunuseozcelik
+## ⚡ Tech Stack
+
+### 🔹 Programming Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,kotlin,javascript" />
+</p>
+
+### 🔹 AI / ML  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://img.shields.io/badge/LLM-%F0%9F%A4%96-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NLP-%F0%9F%93%9A-green?style=for-the-badge">
+</p>
+
+### 🔹 Tools & Platforms  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+  <img src="https://img.shields.io/badge/VectorDB-FA5858?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Azure%20Speech-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+</p>
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yunuseozcelik&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=yunuseozcelik&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunuseozcelik&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/yunus-emre-ozcelik81">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:yunusemreze8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
+
+<p align="center">✨ Thanks for visiting my profile ✨</p>

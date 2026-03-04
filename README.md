@@ -28,15 +28,11 @@
 ### 🔹 AI / ML  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-  <img src="https://img.shields.io/badge/LLM-%F0%9F%A4%96-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/NLP-%F0%9F%93%9A-green?style=for-the-badge">
 </p>
 
 ### 🔹 Tools & Platforms  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
-  <img src="https://img.shields.io/badge/VectorDB-FA5858?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Azure%20Speech-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
 </p>
 
 ---

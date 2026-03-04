@@ -40,12 +40,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yunuseozcelik&show_icons=true&theme=tokyonight" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=yunuseozcelik&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunuseozcelik&layout=compact&theme=tokyonight" />
 </p>
 
 ---
